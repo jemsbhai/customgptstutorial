@@ -1,7 +1,7 @@
 
 # 🔐 Privacy Policy
 
-**Effective Date:** May 4, 2025  
+**Effective Date:** May 6, 2025  
 **Last Updated:** May 4, 2025
 
 This Privacy Policy explains how we handle your information when you interact with the Custom GPT assistant ("JokeMasterGPT") built using OpenAI’s Custom GPT platform.
@@ -73,5 +73,5 @@ We may update this Privacy Policy from time to time to reflect new features or c
 If you have any questions, concerns, or feedback regarding this Privacy Policy, please contact:
 
 **Muntaser Syed**  
-📧 Email: [msyed2011@my.fit.edu](mailto:msyed2011@my.fit.edu)
+📧 Email: [muntaser@ieee.org](mailto:muntaser@ieee.org)
 
